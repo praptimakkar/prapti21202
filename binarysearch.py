@@ -14,4 +14,3 @@ def binary_search(item_list,item):
     return "The item was not found" if not found else "The item was found"
     
 print(binary_search([1,2,3,5,8], 0))
-print(binary_search([1,2,3,5,8], 5))
